@@ -1,0 +1,8 @@
+{
+    "virustotal_api": "API key",
+    "securitytrails_api": "your_securitytrails_api_key_here",
+    "shodan_api": "API key",
+    "timeout": 15,
+    "retries": 5,
+    "user_agent": "SubdomainEnumerator/1.0 (Python; asyncio; Contact: your_email@example.com)"
+}
