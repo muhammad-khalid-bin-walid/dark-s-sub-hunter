@@ -1,2 +1,2 @@
 # dark-s-sub-hunter
-This tool just roars among the sub domains
+This tool truly excels across the various subdomains.
